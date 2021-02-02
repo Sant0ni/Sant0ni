@@ -2,4 +2,4 @@
 
 ### Skills:       C++, C, Java, Python, Swift
 ### Interests:    Networking, UI/UX, Cybersecurity
-### Currently Learning: Nim, Pentesting
+### Currently Learning: Rust, Pentesting
