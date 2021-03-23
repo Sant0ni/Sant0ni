@@ -1,5 +1,5 @@
 ![Banner](/Banner.png)
 
-### Skills:       C++, C, Java, Python, Swift
+### Skills:       C++, C, Java, Python, Swift, Rust
 ### Interests:    Networking, UI/UX, Cybersecurity
-### Currently Learning: Rust, Pentesting
+### Currently Learning: Pentesting, React, Redux, Typescript, Javascript
