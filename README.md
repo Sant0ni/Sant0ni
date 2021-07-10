@@ -1,11 +1,8 @@
 ![Banner](/Banner.png)
 
 ### Skills:       
-  Programming Languages:  
-    C++, C, C#, Java, Python, Javascript, TypeScript  
-  Frameworks:  
+    C++, C, C#, Java, Python, Javascript, TypeScript   
     Flutter, AngularJS, ReactJS  
-  Other:  
     REST  
 ### Interests:  
   Networking, UI/UX, Cybersecurity  
