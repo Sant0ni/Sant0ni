@@ -1,10 +1,10 @@
 ![Banner](/Banner.png)
 
 ### Skills:       
-  ##Programming Languages: [C++, C, C#, Java, Python, Javascript, TypeScript]
-  ##Frameworks: [Flutter, Angular, ReactJS]
-  ##Other: [REST]
+  Programming Languages: [C++, C, C#, Java, Python, Javascript, TypeScript]
+  Frameworks: [Flutter, Angular, ReactJS]
+  Other: [REST]
 ### Interests:    
-  ##Networking, UI/UX, Cybersecurity
+  Networking, UI/UX, Cybersecurity
 ### Currently Learning: 
-  ##Pentesting, Rust, Blockchain
+  Pentesting, Rust, Blockchain
