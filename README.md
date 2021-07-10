@@ -5,6 +5,6 @@
     Flutter, AngularJS, ReactJS  
     REST  
 ### Interests:  
-  Networking, UI/UX, Cybersecurity  
+    Networking, UI/UX, Cybersecurity  
 ### Currently Learning: 
-  Pentesting, Rust, Blockchain  
+    Pentesting, Rust, Blockchain  
