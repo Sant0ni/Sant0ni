@@ -1,3 +1,1 @@
-![Banner](/Banner.png)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moritz%20Santoni-blue?logo=linkedin)](https://www.linkedin.com/in/moritz-santoni-943010347)
