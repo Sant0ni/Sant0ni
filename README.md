@@ -1,6 +1,6 @@
 ![Banner](/Banner.png)
 
-LinkedIn
+### LinkedIn
 
 https://www.linkedin.com/in/moritz-santoni-943010347
 
