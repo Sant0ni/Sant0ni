@@ -1,5 +1,8 @@
 ![Banner](/Banner.png)
 
+LinkedIn
+https://www.linkedin.com/in/moritz-santoni-943010347
+
 ### Skills:       
     C++, C, C#, Java, Python, Javascript, TypeScript   
     Flutter, AngularJS, ReactJS  
