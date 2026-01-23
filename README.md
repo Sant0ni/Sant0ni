@@ -4,16 +4,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moritz-santoni-943010347)
 
----
-
 ## Stack
 
 **Frontend** · React · Flutter · Vue.ts · TypeScript · Framer Motion · Capacitor  
 **Backend** · Django · ASP.NET · ExpressTS
 **Cloud & Infra** · AWS · Azure
 **Other** · Figma · OCR · IoT · RAG/AI
-
----
 
 ## Where I'm working at the moment
 
